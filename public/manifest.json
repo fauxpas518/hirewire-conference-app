@@ -1,0 +1,21 @@
+{
+  "name": "HireWire Conference App",
+  "short_name": "HireWire",
+  "description": "Connect, learn, and grow at the UI/UX, Product & Data Conference",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/placeholder-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/placeholder-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
