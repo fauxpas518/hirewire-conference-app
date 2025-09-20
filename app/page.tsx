@@ -20,7 +20,7 @@ const conferences = [
     sessions: 180,
     companies: 550,
     progress: 0,
-    image: "/conference.jpg",
+    image: "/conference2.png",
   },
   {
     id: 1,
